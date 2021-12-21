@@ -2,6 +2,17 @@
 
 This project creates a database and classification model. The classification model is wrapped into a Flask app capable of categorizing disaster messages in 36 categories.
 
+### Dependencies:
+- Python 3.5+
+- NumPy
+- SciPy
+- Pandas
+- Sklearn
+- NLTK
+- SQLalchemy
+- Flask
+- Plotly
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
