@@ -1,1 +1,0 @@
-# udacity_disaster_tool
